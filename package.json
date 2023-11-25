@@ -1,0 +1,22 @@
+{
+  "name": "myprojectone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bahriddin2152/example.git"
+  },
+  "author": "Bahriddin Boltayev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bahriddin2152/example/issues"
+  },
+  "homepage": "https://github.com/Bahriddin2152/example#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
